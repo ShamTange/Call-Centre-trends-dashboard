@@ -1,2 +1,3 @@
 # Call-Centre-trends-dashboard
-[Call centre trends dashboard.pdf](https://github.com/ShamTange/Call-Centre-trends-dashboard/files/13926801/Call.centre.trends.dashboard.pdf)
+![Screenshot (375)](https://github.com/ShamTange/Call-Centre-trends-dashboard/assets/101647764/8df58f90-8c70-424e-9cbc-86a99066bf65)
+
